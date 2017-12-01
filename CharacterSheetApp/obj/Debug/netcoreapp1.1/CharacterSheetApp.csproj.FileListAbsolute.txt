@@ -1,0 +1,11 @@
+C:\Users\SARS\Desktop\MVC\新增資料夾\CharacterSheetApp\CharacterSheetApp\CharacterSheetApp\obj\Debug\netcoreapp1.1\CharacterSheetApp.csprojResolveAssemblyReference.cache
+C:\Users\SARS\Desktop\MVC\新增資料夾\CharacterSheetApp\CharacterSheetApp\CharacterSheetApp\obj\Debug\netcoreapp1.1\CharacterSheetApp.csproj.CoreCompileInputs.cache
+C:\Users\SARS\Desktop\MVC\新增資料夾\CharacterSheetApp\CharacterSheetApp\CharacterSheetApp\obj\Debug\netcoreapp1.1\CharacterSheetApp.AssemblyInfoInputs.cache
+C:\Users\SARS\Desktop\MVC\新增資料夾\CharacterSheetApp\CharacterSheetApp\CharacterSheetApp\obj\Debug\netcoreapp1.1\CharacterSheetApp.AssemblyInfo.cs
+C:\Users\SARS\Desktop\MVC\新增資料夾\CharacterSheetApp\CharacterSheetApp\CharacterSheetApp\bin\Debug\netcoreapp1.1\CharacterSheetApp.deps.json
+C:\Users\SARS\Desktop\MVC\新增資料夾\CharacterSheetApp\CharacterSheetApp\CharacterSheetApp\bin\Debug\netcoreapp1.1\CharacterSheetApp.runtimeconfig.json
+C:\Users\SARS\Desktop\MVC\新增資料夾\CharacterSheetApp\CharacterSheetApp\CharacterSheetApp\bin\Debug\netcoreapp1.1\CharacterSheetApp.runtimeconfig.dev.json
+C:\Users\SARS\Desktop\MVC\新增資料夾\CharacterSheetApp\CharacterSheetApp\CharacterSheetApp\bin\Debug\netcoreapp1.1\CharacterSheetApp.dll
+C:\Users\SARS\Desktop\MVC\新增資料夾\CharacterSheetApp\CharacterSheetApp\CharacterSheetApp\bin\Debug\netcoreapp1.1\CharacterSheetApp.pdb
+C:\Users\SARS\Desktop\MVC\新增資料夾\CharacterSheetApp\CharacterSheetApp\CharacterSheetApp\obj\Debug\netcoreapp1.1\CharacterSheetApp.dll
+C:\Users\SARS\Desktop\MVC\新增資料夾\CharacterSheetApp\CharacterSheetApp\CharacterSheetApp\obj\Debug\netcoreapp1.1\CharacterSheetApp.pdb
